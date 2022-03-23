@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class lab4_arrays{
     public static void main (String[] args){
