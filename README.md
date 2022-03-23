@@ -1,3 +1,3 @@
 # H1 cs236
 
-Java Fundamentals Syntax Practice 
+Java fundamentals syntax practice. Just looking around *.* 
