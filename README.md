@@ -1,7 +1,6 @@
-# H1 cs236
+# cs236
 
 Java fundamentals/ GitHub practice. :sleepy: :sleeping:
-
 To add/set a remote repo after installing git:
 `git remote add origin <INSERT GITHUB URL>`
 
